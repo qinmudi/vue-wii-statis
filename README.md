@@ -17,6 +17,7 @@ Vue.use(WiiStatis,options)
 ```
 
 ### options
+
 参数名 | 参数说明 | 是否必填
 - | :-: | -:
  sid | 统计appid | 必填
@@ -59,6 +60,7 @@ this.$statis.traceEvent(evtId,value);
 ```
 
 ### 参数说明
+
 参数名 | 参数说明
 - | :-:
  evtId | mta 的事件ID
