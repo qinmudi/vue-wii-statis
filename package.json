@@ -1,6 +1,6 @@
 {
   "name": "vue-wii-statis",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "平台开发组统计插件",
   "author": "秦睦迪 <qinmudi@qq.com>",
   "main": "dist/wii.static.js",

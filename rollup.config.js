@@ -37,5 +37,5 @@ export default {
           'process.env.NODE_ENV': JSON.stringify( 'production' )
         })
     ],
-    external: ['vue']
+    external: ['vue','mta-h5-analysis']
 }
